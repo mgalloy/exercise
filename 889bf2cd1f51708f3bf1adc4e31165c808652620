@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f9fda285_51d12b93",
+        "filename": "dayOfYear.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1013878
+      },
+      "writtenOn": "2018-04-04T16:20:02Z",
+      "side": 1,
+      "message": "Not sure if dayOfMonth gets modified in the calling sequence, but this code looks okay otherwise.",
+      "revId": "889bf2cd1f51708f3bf1adc4e31165c808652620",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
